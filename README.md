@@ -17,7 +17,7 @@ Stellar Defender is a vibrant 2D space shooter where you pilot a starfighter thr
 ## 🚀 Installation and Playing
 
 ### Playing the Game (via pre-built executable)
-1. Download the latest version of the game from releases or itch.io page.
+1. Download the latest version of the game from [releases](https://github.com/vaibhavkrkm/Stellar-Defender/releases) or [itch.io](https://lets-connect-team.itch.io/stellar-defender) page.
 2. Unzip the downloaded ZIP file.
 3. Run *Stellar Defender.exe* and start playing!
 
