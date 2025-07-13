@@ -1,0 +1,22 @@
+Game Developed by: Vaibhav Kumar
+______________________________________
+
+Programming: Vaibhav Kumar
+Spaceship art: Shefali Kumari (LinkedIn: www.linkedin.com/in/shefali-kumari-a66530267)
+______________________________________
+
+Powerup Bubble by: Mabity (itch.io: https://mabity.itch.io/)
+Guilded Bullet: https://opengameart.org/content/sci-fi-space-simple-bullets
+Other bullets and UI assets: Freepik.com
+Font: https://fonts.google.com/specimen/Gemunu+Libre/license?categoryFilters=Feeling:%2FExpressive%2FStiff;Appearance:%2FTheme%2FTechno
+
+Not Enough Coins sound by freesound_community from Pixabay
+Upgrade sound by: floraphonic from Pixabay
+other sounds from: zapsplat.com
+Ship Explosion 1 Sound (explosion10) By V-Ktor From freesound.org under CC0 License
+
+Main Menu Music: Brave Pilots by Oblidivm (CC-BY 3.0 License) on opengameart.org
+Level Music: Without Fear by Oblidivm (CC-BY 3.0 License) on opengameart.org
+Victory and Defeated sounds by Oblidivm (CC-BY 3.0 License) on opengameart.org
+
+Question mark icon: https://icons8.com/icons/set/question-mark
