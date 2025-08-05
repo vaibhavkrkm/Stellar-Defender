@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerShooting : MonoBehaviour
 {
@@ -22,35 +23,38 @@ public class PlayerShooting : MonoBehaviour
         {
             bulletCoroutineTimer += Time.deltaTime;
         }
-        // for bullet1 shooting
-        if (Input.GetKeyDown(KeyCode.Space))
+    }
+
+    public void Bullet1Shooting(InputAction.CallbackContext context)
+    {
+        if (context.started)    // when space started to be pressed
         {
             if (bulletCoroutineTimer >= bulletTimer)
             {
-                // start the coroutine when space starts to be pressed
+                // start the coroutine
                 co = StartCoroutine(ShootBullet1());
                 bulletCoroutineTimer = 0f;
             }
         }
-        if (Input.GetKeyUp(KeyCode.Space))
+
+        if (context.canceled)    // when space is released
         {
-            // stop the coroutine when space is released
+            // stop the coroutine
             if (co != null)
                 StopCoroutine(co);
-        }
+        }   
+    }
 
-        // for bullet2 shooting
-        if (!levelManager.isPaused)    // only shoot when game not paused
+    public void Bullet2Shooting(InputAction.CallbackContext context)
+    {
+        if (context.performed)    // shoot once during performed phase
         {
-            if (Input.GetKeyDown(KeyCode.RightControl) || Input.GetKeyDown(KeyCode.LeftControl))
+            if (Global.strongBullets > 0)
             {
-                if (Global.strongBullets > 0)
-                {
-                    levelManager.PlayStrongBulletSound();
-                    SpawnBullet(bullet2);
-                    Global.strongBullets -= 1;
-                    levelManager.updateStrongBulletText();
-                }
+                levelManager.PlayStrongBulletSound();
+                SpawnBullet(bullet2);
+                Global.strongBullets -= 1;
+                levelManager.updateStrongBulletText();
             }
         }
     }

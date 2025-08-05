@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using TMPro;
 using System;
+using UnityEngine.InputSystem;
 
 public class LevelManager : MonoBehaviour
 {
@@ -34,6 +35,8 @@ public class LevelManager : MonoBehaviour
     public List<GameObject> powerups = new List<GameObject>();
     private AudioSource[] impactSounds;
 
+    public PlayerInput playerInput;
+
     public GameObject redBackground;
     public GameObject waveUI;
     public GameObject victoryUI;
@@ -61,7 +64,7 @@ public class LevelManager : MonoBehaviour
 
     private float powerupSpawnGap;
     private float powerupSpawnTimer = 0f;
-
+    
     // sounds and music
     public AudioSource levelMusic;
     public AudioClip bulletClip;
@@ -124,6 +127,9 @@ public class LevelManager : MonoBehaviour
 
         powerupSpawnGap = UnityEngine.Random.Range(5f, 15f);
         StartCoroutine(StartLevel());
+
+        // switch to Player action map
+        playerInput.SwitchCurrentActionMap("Player");
     }
 
     private void Update()
@@ -222,6 +228,8 @@ public class LevelManager : MonoBehaviour
         victory = true;
         // wait for 2 seconds
         yield return new WaitForSeconds(2f);
+        // switch to UI action map
+        playerInput.SwitchCurrentActionMap("UI");
         // stop level music
         levelMusic.Stop();
         // play victory sound
@@ -413,6 +421,8 @@ public class LevelManager : MonoBehaviour
         {
             // stop level music
             levelMusic.Stop();
+            // switch to UI action map
+            playerInput.SwitchCurrentActionMap("UI");
             // play explosion sound (for player ship explosion)
             explosionSound.Play();
             // play defeated sound
@@ -431,6 +441,8 @@ public class LevelManager : MonoBehaviour
             // unpause the game
             // resume level music
             levelMusic.UnPause();
+            // switch to Player action map
+            playerInput.SwitchCurrentActionMap("Player");
             pauseUIAnimator.SetTrigger("EndPauseTrigger");
             StartCoroutine(PauseDelayedDeactivation());
             Time.timeScale = 1;
@@ -440,6 +452,8 @@ public class LevelManager : MonoBehaviour
             // pause the game
             // pause level music
             levelMusic.Pause();
+            // switch to UI action map
+            playerInput.SwitchCurrentActionMap("UI");
             pauseUI.SetActive(true);
             pauseUIAnimator.SetTrigger("StartPauseTrigger");   // triggering StartPauseTrigger to start pause fade in animation
             Time.timeScale = 0;
