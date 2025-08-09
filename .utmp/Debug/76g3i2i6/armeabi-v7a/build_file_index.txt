@@ -1,0 +1,2 @@
+P:\Unity Projects\Stellar Defender\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+P:\Unity Projects\Stellar Defender\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt

@@ -1,0 +1,5 @@
+P:/Unity Projects/Stellar Defender/.utmp/Debug/76g3i2i6/arm64-v8a/CMakeFiles/edit_cache.dir
+P:/Unity Projects/Stellar Defender/.utmp/Debug/76g3i2i6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+P:/Unity Projects/Stellar Defender/.utmp/Debug/76g3i2i6/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+P:/Unity Projects/Stellar Defender/.utmp/Debug/76g3i2i6/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+P:/Unity Projects/Stellar Defender/.utmp/Debug/76g3i2i6/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

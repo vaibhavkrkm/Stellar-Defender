@@ -251,7 +251,8 @@ public class LevelManager : MonoBehaviour
             // enable boss healthbar
             if (!bossHealthbar.activeInHierarchy)
             {
-                pauseButton.anchoredPosition = new Vector2(0f, pauseButton.anchoredPosition.y);    // using anchoredPosition since its on canvas
+                float canvasWidth = pauseButton.parent.GetComponent<RectTransform>().rect.width;    // using canvas width to put the button in top middle
+                pauseButton.anchoredPosition = new Vector2(-canvasWidth / 2f, pauseButton.anchoredPosition.y);    // using anchoredPosition since its on canvas
                 bossHealthbar.SetActive(true);
             }
         }

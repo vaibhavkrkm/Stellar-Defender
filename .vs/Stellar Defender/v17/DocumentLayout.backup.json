@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "P:\\Unity Projects\\Stellar Defender\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|p:\\unity projects\\stellar defender\\assets\\mobilecontrolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|p:\\unity projects\\stellar defender\\assets\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\mobilecontrolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\mobilecontrolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|p:\\unity projects\\stellar defender\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\zigzagmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\enemycollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\enemycollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\playercollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|solutionrelative:assets\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9DEFF2A-5737-ADC0-F1A7-2D4EA8CB8D47}|Assembly-CSharp.csproj|P:\\Unity Projects\\Stellar Defender\\assets\\mainmusicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,37 +134,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LevelManager.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\LevelManager.cs",
               "RelativeDocumentMoniker": "Assets\\LevelManager.cs",
               "ToolTip": "P:\\Unity Projects\\Stellar Defender\\Assets\\LevelManager.cs",
               "RelativeToolTip": "Assets\\LevelManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAuwP0AAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T10:43:06.635Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MobileControlManager.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\MobileControlManager.cs",
               "RelativeDocumentMoniker": "Assets\\MobileControlManager.cs",
               "ToolTip": "P:\\Unity Projects\\Stellar Defender\\Assets\\MobileControlManager.cs",
               "RelativeToolTip": "Assets\\MobileControlManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T10:26:44.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\PlayerData.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerData.cs",
@@ -172,11 +173,12 @@
               "RelativeToolTip": "Assets\\PlayerData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T09:10:58.299Z"
+              "WhenOpened": "2025-02-21T09:10:58.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SaveSystem.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\SaveSystem.cs",
               "RelativeDocumentMoniker": "Assets\\SaveSystem.cs",
@@ -200,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "RotateObject.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\RotateObject.cs",
               "RelativeDocumentMoniker": "Assets\\RotateObject.cs",
@@ -284,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LevelMenuManager.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\LevelMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\LevelMenuManager.cs",
@@ -296,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EnemyCollisions.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\EnemyCollisions.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyCollisions.cs",
@@ -308,15 +310,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "MainMenuManager.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\MainMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenuManager.cs",
               "ToolTip": "P:\\Unity Projects\\Stellar Defender\\Assets\\MainMenuManager.cs",
               "RelativeToolTip": "Assets\\MainMenuManager.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAmwM4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAM4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T14:47:57.135Z"
+              "WhenOpened": "2025-01-20T14:47:57.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -344,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PlayerCollisions.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\PlayerCollisions.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerCollisions.cs",
@@ -356,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
@@ -364,8 +367,7 @@
               "RelativeToolTip": "Assets\\PlayerMovement.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T14:25:54.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T14:25:54.911Z"
             },
             {
               "$type": "Document",
@@ -381,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PlayerShooting.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\PlayerShooting.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerShooting.cs",
@@ -477,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ZigZagMovement.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\ZigZagMovement.cs",
               "RelativeDocumentMoniker": "Assets\\ZigZagMovement.cs",
@@ -501,13 +503,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Global.cs",
               "DocumentMoniker": "P:\\Unity Projects\\Stellar Defender\\Assets\\Global.cs",
               "RelativeDocumentMoniker": "Assets\\Global.cs",
               "ToolTip": "P:\\Unity Projects\\Stellar Defender\\Assets\\Global.cs",
               "RelativeToolTip": "Assets\\Global.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T13:58:31.151Z"
             }

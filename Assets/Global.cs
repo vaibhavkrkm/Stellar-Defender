@@ -6,7 +6,7 @@ public static class Global
     public static int score = 0;
     public static int coins = 0;
     public static int total_coins = 0;
-    public static int selectedLevel = 1;
+    public static int selectedLevel = 2;
     public static int levelsUnlockedTill = 1;
     public static float playerBulletMultiplier;
     public static bool newGame = true;

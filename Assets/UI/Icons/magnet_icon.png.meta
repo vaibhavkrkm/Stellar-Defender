@@ -298,7 +298,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magnet_icon_0: 2549274746408729304
+      magnet_icon_1: 2040000713548325367
+      magnet_icon_2: -6384730159318500404
+      magnet_icon_3: 4922222851219915573
+      magnet_icon_4: -3523473596515776812
+      magnet_icon_5: -199946719686767425
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
