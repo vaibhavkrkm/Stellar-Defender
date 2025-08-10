@@ -1,7 +1,9 @@
 
 # 🎮 Stellar Defender
 
-Screenshots go here
+<img src="https://img.itch.zone/aW1hZ2UvMzQzMTMyMS8yMDQ4NDYyNC5wbmc=/794x1000/9XJy2p.png" width=380 height=auto>
+<img src="https://img.itch.zone/aW1hZ2UvMzQzMTMyMS8yMDQ4NDYxNy5wbmc=/794x1000/t7Coq9.png" width=380 height=auto>
+<img src="https://img.itch.zone/aW1hZ2UvMzQzMTMyMS8yMDQ4NDYxNC5wbmc=/794x1000/IKdGET.png" width=380 height=auto>
 
 ## ✨ Overview
 Stellar Defender is a vibrant 2D space shooter where you pilot a starfighter through 12 levels, battling an alien armada, collecting power-ups, and upgrading your gear to save the galaxy.
