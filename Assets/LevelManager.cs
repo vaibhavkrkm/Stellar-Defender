@@ -164,7 +164,7 @@ public class LevelManager : MonoBehaviour
         // user input(s)
         if (!victory && !gameOver)
         {
-            if (Input.GetKeyUp(KeyCode.Escape))
+            if (Keyboard.current.escapeKey.wasPressedThisFrame)
             {
                 // pause the game if escape is pressed
                 GamePause();
